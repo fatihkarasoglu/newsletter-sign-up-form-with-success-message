@@ -114,10 +114,7 @@ export default function Newsletter() {
             <div className="flex justify-center items-center">
               <div className="relative">
                 <img
-                  src={
-                    require("../images/illustration-sign-up-desktop.svg")
-                      .default
-                  }
+                  src={require("../images/desktop.svg").default}
                   alt="Newsletter graphic"
                 />
               </div>
@@ -133,9 +130,7 @@ export default function Newsletter() {
           <>
             <div className="w-full">
               <img
-                src={
-                  require("../images/illustration-sign-up-mobile.svg").default
-                }
+                src={require("../images/mobile.svg").default}
                 alt="Newsletter graphic"
                 className="w-full"
               />
