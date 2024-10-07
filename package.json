@@ -1,7 +1,7 @@
 {
-  "homepage": "https://fatihkarasoglu.github.io/newsletter-sign-up-form-with-success-message",
   "name": "newsletter-sign-up-form-with-success-message",
   "version": "0.1.0",
+  "homepage": "https://github.com/fatihkarasoglu/newsletter-sign-up-form-with-success-message",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
